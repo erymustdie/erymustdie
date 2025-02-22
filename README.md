@@ -1,7 +1,7 @@
 #  Welcome!
 ---
 ## 🇧🇷 Who am I
-I'm Erica, currently graduating in Computer Science at UFC (Universidade Federal do Ceará) and working at [Fundação Demócrito Rocha](https://www.linkedin.com/company/fundacaodemocritorocha/mycompany/verification/), in Fortaleza - Brazil.
+I'm Erica, currently graduating in Computer Science at UFC (Universidade Federal do Ceará).
 
 ## 📈 How about some stats?
 
